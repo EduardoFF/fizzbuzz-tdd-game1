@@ -10,3 +10,6 @@ def test_number_tree():
 
 def test_number_6():
     assert fizzBuzz(6) == "Fizz"
+
+def test_number_7():
+    assert fizzBuzz(7) == "Buzz"
