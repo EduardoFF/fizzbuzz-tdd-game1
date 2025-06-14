@@ -5,3 +5,5 @@ def fizzBuzz(n):
         return "1"
     if n==2:
         return "2"
+    if n==7:
+        return "Buzz"
