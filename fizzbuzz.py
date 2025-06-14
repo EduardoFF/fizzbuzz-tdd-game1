@@ -1,5 +1,5 @@
 def fizzBuzz(n):
-    if n==3 or n==6:
+    if n%3==0:
         return "Fizz"
     if n==1:
         return "1"
