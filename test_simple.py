@@ -18,3 +18,4 @@ def test_number_9():
     assert fizzBuzz(9) == "Fizz"
 def test_fizzbuzz():
     assert fizzBuzz(15) == "FizzBuzz"
+    assert fizzBuzz(30) == "FizzBuzz"
